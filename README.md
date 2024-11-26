@@ -1,5 +1,5 @@
 
-# Superheroes Spring Boot Application
+# Angular, Spring Boot and PostgreSQL Application
 
 This is a demo project for a Spring Boot application that integrates with various technologies such as Redis, PostgreSQL, H2 Database, JWT Security, and OpenAPI 3. The project also includes a frontend built with Angular, packaged together with the backend in a single JAR file.
 
